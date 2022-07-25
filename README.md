@@ -1,10 +1,10 @@
-### Hi there, I'm Emily 👋
+ ### Hi there, I'm Emily 👋
 
-📫 Contact Me : 
+📫 Contact Me
 - https://www.linkedin.com/in/emily-tregelles/ 
 - etregelles@gmail.com
 
-💬 Ask me about: 
+💬 Ask me about
 - The DO: An app for planning the perfect stag or hen do 💍
 
 <!--

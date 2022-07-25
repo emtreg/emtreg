@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Emily 👋
+
+📫 Contact Me : 
+- https://www.linkedin.com/in/emily-tregelles/ 
+- etregelles@gmail.com
+
+💬 Ask me about: 
+- The DO: An app for planning the perfect stag or hen do 💍
 
 <!--
 **emtreg/emtreg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
